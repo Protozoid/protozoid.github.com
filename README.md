@@ -1,4 +1,4 @@
 protozoid.github.com
 ====================
 
-Github Pages Website
+GitHub Pages Website. Current status is incomplete.
